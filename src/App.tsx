@@ -436,7 +436,7 @@ const questions: Question[] = [
   // Governance & Operations Domain
   {
     id: 'genAiPolicyFramework',
-    text: 'Has your organization established a formal, documented policy framework specifically addressing the governance of GenAI development, deployment, and use, including acceptable use, data handling, and ethical considerations?',
+    text: 'Is a formal GenAI policy (covering development, deployment, use, data, ethics) established and documented?',
     options: ['Yes, comprehensive & documented', 'Policy in development', 'Informal guidelines exist', 'No specific GenAI policy'],
     info: 'A clear GenAI policy framework is crucial for consistent, responsible, and compliant use across the organization.',
     complianceAreaId: 'governance',
@@ -444,7 +444,7 @@ const questions: Question[] = [
   },
   {
     id: 'genAiRolesAccountability',
-    text: 'Are there clearly defined roles, responsibilities, and accountability structures for the oversight and governance of GenAI systems, including a designated individual or body responsible for GenAI compliance?',
+    text: 'Are GenAI roles, responsibilities, and accountability (including a designated compliance body/individual) clearly defined for system oversight?',
     options: ['Yes, clearly defined & assigned', 'Partially defined or assigned', 'Responsibilities being defined', 'No defined roles/accountability'],
     info: 'Clear accountability ensures that GenAI governance is effectively managed and enforced.',
     complianceAreaId: 'governance',
@@ -452,7 +452,7 @@ const questions: Question[] = [
   },
   {
     id: 'genAiLegalReviewProcess',
-    text: 'Is there a formal process to regularly review and ensure that GenAI systems and their use comply with applicable local laws, regulations (e.g., data privacy, IP, consumer protection), and contractual obligations?',
+    text: 'Is a formal process in place to regularly review GenAI systems for compliance with laws (e.g., data privacy, IP) and contracts?',
     options: ['Yes, formal & regular review process', 'Ad-hoc review process', 'Process being developed', 'No formal review process'],
     info: 'Ongoing legal and regulatory review is essential to maintain compliance in the evolving GenAI landscape.',
     complianceAreaId: 'governance',
@@ -460,7 +460,7 @@ const questions: Question[] = [
   },
   {
     id: 'genAiIncidentResponsePlan',
-    text: 'Does your organization have an incident response plan specifically addressing potential breaches, misuse, or failures related to GenAI systems, including notification procedures and mitigation strategies?',
+    text: 'Is there an incident response plan for GenAI breaches, misuse, or failures, including notification and mitigation strategies?',
     options: ['Yes, specific GenAI plan in place', 'General IT incident plan adapted for AI', 'Plan in development', 'No specific AI incident plan'],
     info: 'GenAI incidents (e.g., data leakage via LLM, generation of harmful content) may require specialized response procedures beyond standard IT incidents.',
     complianceAreaId: 'governance',
@@ -468,7 +468,7 @@ const questions: Question[] = [
   },
   {
     id: 'genAiQMS',
-    text: 'Has a Quality Management System (QMS) or equivalent set of processes been established or adapted to oversee the lifecycle of GenAI models, including development, testing, validation, and monitoring for performance and compliance?',
+    text: 'Is a Quality Management System (QMS) or similar process used for the GenAI model lifecycle (dev, test, validation, monitoring)?',
     options: ['Yes, comprehensive QMS for GenAI', 'QMS partially adapted/implemented', 'QMS principles being considered', 'No specific QMS for GenAI'],
     info: 'A QMS helps ensure GenAI systems are developed and operate reliably, ethically, and in compliance with standards.',
     complianceAreaId: 'governance',
@@ -476,7 +476,7 @@ const questions: Question[] = [
   },
   {
     id: 'genAiEmployeeTrainingGovernance',
-    text: 'Are employees who develop, deploy, or use GenAI systems provided with regular training on relevant policies, ethical guidelines, legal obligations, and potential risks associated with GenAI?',
+    text: 'Do employees using GenAI receive regular training on relevant policies, ethics, legal obligations, and GenAI risks?',
     options: ['Yes, regular & comprehensive training', 'Ad-hoc or initial training only', 'Training program in development', 'No formal training provided'],
     info: 'Educated employees are key to mitigating risks and ensuring responsible GenAI adoption.',
     complianceAreaId: 'governance',
