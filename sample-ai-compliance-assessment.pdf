@@ -1,0 +1,1435 @@
+%PDF-1.3
+%ºß¬à
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<<
+/Length 2899
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 16 Tf
+18.3999999999999986 TL
+0.153 0.682 0.376 rg
+56.6929133858267775 785.1970866141732586 Td
+(Discovery & Inventory) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 742.6774015748030706 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 742.6774015748030706 Td
+(Are all GenAI models and systems \(in use or development\) inventorised?: Yes,) Tj
+T* (fully) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 671.8112598425196893 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 671.8112598425196893 Td
+(Are data sources \(training, fine-tuning, RAG\) for GenAI models documented) Tj
+T* (and assessed for bias or quality?: Documented, not assessed) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 600.9451181102361943 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 600.9451181102361943 Td
+(Is each GenAI system's purpose and operational context clearly defined and) Tj
+T* (documented?: For most systems) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 530.0789763779526993 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 530.0789763779526993 Td
+(If using third-party GenAI models/APIs \(e.g., LLMs\), are their compliance and) Tj
+T* (risk profiles understood?: Yes, but not understood) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 459.2128346456692611 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 459.2128346456692611 Td
+(Are system boundaries and integration points for GenAI applications with other) Tj
+T* (enterprise systems defined?: Partially defined) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.153 0.682 0.376 rg
+56.6929133858267775 360.0002362204724022 Td
+(Regulation & Classification) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 317.480551181102328 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 317.480551181102328 Td
+(Are your GenAI systems classified by EU AI Act risk categories \(unacceptable,) Tj
+T* (high, limited, minimal\)?: Classification in progress) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 246.614409448818833 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 246.614409448818833 Td
+(If GenAI systems are high-risk, are you prepared for EU AI Act obligations \(e.g.,) Tj
+T* (QMS, technical documentation, conformity assessment\)?: Partially prepared) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 175.748267716535338 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 175.748267716535338 Td
+(If developing/using GPAI models, are you aware of specific EU AI Act) Tj
+T* (obligations \(e.g., transparency, technical documentation\)?: Unaware of specific) Tj
+T* (obligations) Tj
+ET
+endstream
+endobj
+5 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 6 0 R
+>>
+endobj
+6 0 obj
+<<
+/Length 2774
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 785.1970866141732586 Td
+(For high-risk GenAI systems, is there a plan for conformity assessment before) Tj
+T* (market placement or use?: Planning in progress) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.153 0.682 0.376 rg
+56.6929133858267775 685.9844881889763428 Td
+(Impact Assessment & Mitigation) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 643.4648031496062686 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 643.4648031496062686 Td
+(Has a Fundamental Rights Impact Assessment \(FRIA\) been conducted for) Tj
+T* (GenAI systems, particularly if high-risk?: FRIA in progress) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 572.5986614173227736 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 572.5986614173227736 Td
+(Are processes in place to detect, document, and mitigate biases in GenAI) Tj
+T* (models and their outputs?: Processes in development) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 501.7325196850393354 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 501.7325196850393354 Td
+(Have potential societal impacts \(e.g., employment, public discourse,) Tj
+T* (environment\) of GenAI systems been assessed?: Aware, not formally assessed) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 430.8663779527558404 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 430.8663779527558404 Td
+(Has the potential for misuse or malicious use of GenAI systems \(e.g.,) Tj
+T* (deepfakes, disinformation\) been assessed and documented?: Assessed, not) Tj
+T* (documented) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 331.6537795275589815 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 331.6537795275589815 Td
+(Has the environmental impact \(e.g., energy use for training/inference\) of GenAI) Tj
+T* (models been considered or assessed?: Considered, not formally assessed) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.153 0.682 0.376 rg
+56.6929133858267775 232.4411811023621794 Td
+(Governance & Operations) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 189.9214960629919915 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 189.9214960629919915 Td
+(Has your organization established a formal, documented policy framework) Tj
+T* (specifically addressing the governance of GenAI development, deployment,) Tj
+T* (and use, including acceptable use, data handling, and ethical considerations?:) Tj
+T* (Policy in development) Tj
+ET
+endstream
+endobj
+7 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 8 0 R
+>>
+endobj
+8 0 obj
+<<
+/Length 2743
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 785.1970866141732586 Td
+(Are there clearly defined roles, responsibilities, and accountability structures) Tj
+T* (for the oversight and governance of GenAI systems, including a designated) Tj
+T* (individual or body responsible for GenAI compliance?: Partially defined or) Tj
+T* (assigned) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 657.6380314960629221 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 657.6380314960629221 Td
+(Is there a formal process to regularly review and ensure that GenAI systems) Tj
+T* (and their use comply with applicable local laws, regulations \(e.g., data privacy,) Tj
+T* (IP, consumer protection\), and contractual obligations?: Ad-hoc review process) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 558.42543307086612 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 558.42543307086612 Td
+(Does your organization have an incident response plan specifically addressing) Tj
+T* (potential breaches, misuse, or failures related to GenAI systems, including) Tj
+T* (notification procedures and mitigation strategies?: General IT incident plan) Tj
+T* (adapted for AI) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 430.8663779527558404 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 430.8663779527558404 Td
+(Has a Quality Management System \(QMS\) or equivalent set of processes been) Tj
+T* (established or adapted to oversee the lifecycle of GenAI models, including) Tj
+T* (development, testing, validation, and monitoring for performance and) Tj
+T* (compliance?: No specific QMS for GenAI) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 303.3073228346455608 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 303.3073228346455608 Td
+(Are employees who develop, deploy, or use GenAI systems provided with) Tj
+T* (regular training on relevant policies, ethical guidelines, legal obligations, and) Tj
+T* (potential risks associated with GenAI?: Ad-hoc or initial training only) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.153 0.682 0.376 rg
+56.6929133858267775 175.748267716535338 Td
+(Data) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 133.2285826771652637 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 133.2285826771652637 Td
+(Do GenAI systems processing personal data comply with GDPR principles) Tj
+T* (\(e.g., lawfulness, fairness, transparency, data minimisation\)?: Partially) Tj
+T* (compliant) Tj
+ET
+endstream
+endobj
+9 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 10 0 R
+>>
+endobj
+10 0 obj
+<<
+/Length 2869
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 785.1970866141732586 Td
+(Are Data Processing Agreements \(DPAs\) in place with third-party GenAI) Tj
+T* (providers/users involving personal data?: For some parties) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 714.3309448818897636 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 714.3309448818897636 Td
+(If using synthetic data for GenAI, has its quality, representativeness, and) Tj
+T* (re-identification risks been assessed?: Aware of risks, not assessed) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 643.4648031496062686 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 643.4648031496062686 Td
+(Are mechanisms in place for data subject rights \(e.g., access, rectification,) Tj
+T* (erasure\) for personal data used/generated by GenAI systems?: No / Not) Tj
+T* (applicable) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.153 0.682 0.376 rg
+56.6929133858267775 515.9057480314959321 Td
+(Security) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 473.3860629921259147 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 473.3860629921259147 Td
+(Are defences implemented against common adversarial attacks on GenAI) Tj
+T* (models \(e.g., data poisoning, model evasion, prompt injection\)?: No specific) Tj
+T* (defences) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 374.1734645669290558 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 374.1734645669290558 Td
+(Is data for training, fine-tuning, and inference of GenAI models secured against) Tj
+T* (unauthorised access, leakage, or corruption?: Yes, strong security) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 303.3073228346455608 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 303.3073228346455608 Td
+(Are your GenAI models \(weights, architecture\) protected against theft or) Tj
+T* (unauthorised modification?: Moderate protection) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 232.4411811023621794 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 232.4411811023621794 Td
+(Are robust access controls and authentication for users and systems) Tj
+T* (interacting with GenAI applications in place?: Standard controls) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 161.5750393700786844 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 161.5750393700786844 Td
+(Is there an incident response plan specifically addressing security breaches or) Tj
+T* (failures related to GenAI systems?: No specific AI incident plan) Tj
+ET
+endstream
+endobj
+11 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 12 0 R
+>>
+endobj
+12 0 obj
+<<
+/Length 2885
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.153 0.682 0.376 rg
+56.6929133858267775 785.1970866141732586 Td
+(Ethics) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 742.6774015748030706 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 742.6774015748030706 Td
+(Have ethical guidelines for GenAI development and deployment been) Tj
+T* (established or adopted?: Considering guidelines) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 671.8112598425196893 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 671.8112598425196893 Td
+(Are GenAI systems monitored for fairness using defined metrics, with) Tj
+T* (identified disparities addressed?: Periodic monitoring) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 600.9451181102361943 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 600.9451181102361943 Td
+(Is there a clear process for human oversight and intervention in GenAI) Tj
+T* (decisions/content, especially in sensitive contexts?: Limited human oversight) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 530.0789763779526993 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 530.0789763779526993 Td
+(Do you engage diverse stakeholders \(including affected communities\) on) Tj
+T* (ethical implications of GenAI systems?: Occasional engagement) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 459.2128346456692611 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 459.2128346456692611 Td
+(Are clear accountability mechanisms in place for outcomes and decisions by or) Tj
+T* (assisted by GenAI systems?: Limited accountability) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.153 0.682 0.376 rg
+56.6929133858267775 360.0002362204724022 Td
+(Capability & Readiness) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 317.480551181102328 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 317.480551181102328 Td
+(Is it clearly disclosed to users when they interact with GenAI systems or) Tj
+T* (consume AI-generated content \(e.g., deepfakes, text\)?: No disclosure) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 246.614409448818833 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 246.614409448818833 Td
+(Can GenAI systems provide context-appropriate explanations or justifications) Tj
+T* (for their outputs/decisions?: Yes, satisfactory degree) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 175.748267716535338 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 175.748267716535338 Td
+(Do users have appropriate control over GenAI system operation and outputs) Tj
+T* (\(e.g., stop, correct, override\)?: Some control) Tj
+ET
+endstream
+endobj
+13 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 14 0 R
+>>
+endobj
+14 0 obj
+<<
+/Length 2722
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 785.1970866141732586 Td
+(Are GenAI systems tested for robustness and reliability under various) Tj
+T* (conditions \(including edge cases, unexpected inputs\)?: Moderately tested) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 714.3309448818897636 Td
+(•) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+70.8661417322834666 714.3309448818897636 Td
+(Is comprehensive technical documentation maintained for your GenAI systems,) Tj
+T* (as required by the EU AI Act for high-risk systems?: No formal technical) Tj
+T* (documentation) Tj
+ET
+BT
+/F2 18 Tf
+20.6999999999999993 TL
+0.153 0.682 0.376 rg
+56.6929133858267775 586.7718897637794271 Td
+(Assessment Summary) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0. g
+56.6929133858267775 544.2522047244094665 Td
+(Overall AI Security Maturity) Tj
+ET
+0.92 0.7 0.03 rg
+56.6929133858267775 501.7325196850393354 83.0664566929133912 -22.677165354330711 re
+f
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 484.7246456692913057 Td
+(Defined) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+56.6929133858267775 464.8821259842518998 Td
+(AI security processes are formally defined and documented. Consistent implementation across projects is the) Tj
+T* (next key area of focus.) Tj
+ET
+0.94 0.27 0.27 rg
+56.6929133858267775 379.8427559055117513 94.1111181102362195 -21.2598425196850407 re
+f
+0.96 0.62 0.04 rg
+153.6386771653543235 379.8427559055117513 94.1111181102362195 -21.2598425196850407 re
+f
+0.92 0.7 0.03 rg
+250.5844409448818908 379.8427559055117513 94.1111181102362195 -21.2598425196850407 re
+f
+0.29 0.33 0.39 rg
+347.5302047244094297 379.8427559055117513 94.1111181102362195 -21.2598425196850407 re
+f
+0.29 0.33 0.39 rg
+444.475968503936997 379.8427559055117513 94.1111181102362195 -21.2598425196850407 re
+f
+BT
+/F1 9 Tf
+10.3499999999999996 TL
+0.29 0.871 0.502 rg
+479.9070866141731813 351.4962992125983874 Td
+(52% Complete) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0.29 0.871 0.502 rg
+56.6929133858267775 308.9766141732283131 Td
+(Key Domain Insights) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 266.4569291338582389 Td
+(• Discovery & Inventory: 60% - Developing) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 223.9372440944881646 Td
+(• Regulation & Classification: 50% - Developing) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 181.4175590551179766 Td
+(• Impact Assessment & Mitigation: 60% - Developing) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 138.8978740157479024 Td
+(• Governance & Operations: 56% - Developing) Tj
+ET
+endstream
+endobj
+15 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 16 0 R
+>>
+endobj
+16 0 obj
+<<
+/Length 3448
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(• Data: 42% - Developing) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 742.6774015748030706 Td
+(• Security: 53% - Developing) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 700.15771653543311 Td
+(• Ethics: 47% - Developing) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 657.6380314960629221 Td
+(• Capability & Readiness: 47% - Developing) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 586.7718897637794271 Td
+(Discovery & Inventory) Tj
+ET
+0.82 0.84 0.86 rg
+56.6929133858267775 564.0947244094487587 361.4206299212597742 -17.0078740157480333 re
+f
+0.97 0.73 0.43 rg
+56.6929133858267775 564.0947244094487587 216.8523779527558588 -17.0078740157480333 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+432.2867716535432123 551.3388188976377933 Td
+(60%) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 518.7403937007873083 Td
+(Regulation & Classification) Tj
+ET
+0.82 0.84 0.86 rg
+56.6929133858267775 496.0632283464566399 361.4206299212597742 -17.0078740157480333 re
+f
+0.44 0.57 0.75 rg
+56.6929133858267775 496.0632283464566399 180.7103149606298871 -17.0078740157480333 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+432.2867716535432123 483.3073228346456176 Td
+(50%) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 450.7088976377952463 Td
+(Impact Assessment & Mitigation) Tj
+ET
+0.82 0.84 0.86 rg
+56.6929133858267775 428.0317322834645211 361.4206299212597742 -17.0078740157480333 re
+f
+0.16 0.31 0.71 rg
+56.6929133858267775 428.0317322834645211 216.8523779527558588 -17.0078740157480333 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+432.2867716535432123 415.2758267716534988 Td
+(60%) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 382.6774015748030706 Td
+(Governance & Operations) Tj
+ET
+0.82 0.84 0.86 rg
+56.6929133858267775 360.0002362204723454 361.4206299212597742 -17.0078740157480333 re
+f
+0.69 0.49 0.63 rg
+56.6929133858267775 360.0002362204723454 202.3955527559054985 -17.0078740157480333 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+432.2867716535432123 347.24433070866138 Td
+(56%) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 314.6459055118109518 Td
+(Data) Tj
+ET
+0.82 0.84 0.86 rg
+56.6929133858267775 291.9687401574802266 361.4206299212597742 -17.0078740157480333 re
+f
+0.69 0.49 0.63 rg
+56.6929133858267775 291.9687401574802266 151.7966645669291097 -17.0078740157480333 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+432.2867716535432123 279.2128346456692043 Td
+(42%) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 246.614409448818833 Td
+(Security) Tj
+ET
+0.82 0.84 0.86 rg
+56.6929133858267775 223.9372440944881077 361.4206299212597742 -17.0078740157480333 re
+f
+0.97 0.73 0.43 rg
+56.6929133858267775 223.9372440944881077 191.5529338582677212 -17.0078740157480333 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+432.2867716535432123 211.1813385826770855 Td
+(53%) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 178.5829133858267141 Td
+(Ethics) Tj
+ET
+0.82 0.84 0.86 rg
+56.6929133858267775 155.9057480314959605 361.4206299212597742 -17.0078740157480333 re
+f
+0.44 0.57 0.75 rg
+56.6929133858267775 155.9057480314959605 169.8676960629921098 -17.0078740157480333 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+432.2867716535432123 143.1498425196849666 Td
+(47%) Tj
+ET
+endstream
+endobj
+17 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 18 0 R
+>>
+endobj
+18 0 obj
+<<
+/Length 1617
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0. g
+56.6929133858267775 785.1970866141732586 Td
+(Key Domain Insights) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 742.6774015748030706 Td
+(Capability & Readiness) Tj
+ET
+0.82 0.84 0.86 rg
+56.6929133858267775 720.0002362204724022 361.4206299212597742 -17.0078740157480333 re
+f
+0.16 0.31 0.71 rg
+56.6929133858267775 720.0002362204724022 169.8676960629921098 -17.0078740157480333 re
+f
+BT
+/F1 8 Tf
+9.1999999999999993 TL
+0. g
+432.2867716535432123 707.2443307086614368 Td
+(47%) Tj
+ET
+BT
+/F2 16 Tf
+18.3999999999999986 TL
+0. g
+56.6929133858267775 660.4726771653542983 Td
+(Key Recommendations) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 617.952992125984224 Td
+(Strengthen Data Governance & Privacy Frameworks) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 575.4333070866141497 Td
+(Your responses indicate potential gaps in data handling and privacy policies for AI systems. DevSecAI's) Tj
+T* (Data Governance service helps establish robust frameworks, ensuring compliance with regulations like) Tj
+T* (GDPR, CCPA, and managing data lifecycle for AI.) Tj
+ET
+BT
+/F2 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 462.0474803149605805 Td
+(Enhance AI Model Security & Integrity) Tj
+ET
+BT
+/F1 10 Tf
+11.5 TL
+0. g
+70.8661417322834666 419.5277952755905062 Td
+(Concerns regarding AI model security, including vulnerability to adversarial attacks or lack of integrity) Tj
+T* (checks, were noted. DevSecAI offers AI Model Security assessments and hardening services to protect) Tj
+T* (your valuable AI assets.) Tj
+ET
+endstream
+endobj
+19 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 595.2799999999999727 841.8899999999999864]
+/Contents 20 0 R
+>>
+endobj
+20 0 obj
+<<
+/Length 1503
+>>
+stream
+0.5670000000000001 w
+0 G
+BT
+/F1 18 Tf
+20.6999999999999993 TL
+0.153 0.682 0.376 rg
+56.6929133858267775 785.1970866141732586 Td
+(Next Steps) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 742.6774015748030706 Td
+(• Schedule a comprehensive review of your AI systems) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 700.15771653543311 Td
+(• Develop a compliance roadmap based on this assessment) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 657.6380314960629221 Td
+(• Establish documentation procedures for high-priority areas) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 615.1183464566928478 Td
+(• Review and update risk management processes) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 572.5986614173227736 Td
+(• Consider expert consultation for complex compliance requirements) Tj
+ET
+BT
+/F1 14 Tf
+16.0999999999999979 TL
+0.153 0.682 0.376 rg
+56.6929133858267775 473.3860629921259147 Td
+(Book a Consultation) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 430.8663779527558404 Td
+(For personalised guidance on implementing these recommendations and ensuring full) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0. g
+56.6929133858267775 402.5199212598424765 Td
+(compliance with the EU AI Act, book a consultation with our experts at:) Tj
+ET
+BT
+/F1 12 Tf
+13.7999999999999989 TL
+0.153 0.682 0.376 rg
+56.6929133858267775 374.1734645669290558 Td
+(https://www.devsecai.io/contact-us) Tj
+ET
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R 5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R ]
+/Count 9
+>>
+endobj
+21 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+22 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+23 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+24 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+25 0 obj
+<<
+/Type /Font
+/BaseFont /Courier
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+26 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+27 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-Oblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+28 0 obj
+<<
+/Type /Font
+/BaseFont /Courier-BoldOblique
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+29 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Roman
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+30 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Bold
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+31 0 obj
+<<
+/Type /Font
+/BaseFont /Times-Italic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+32 0 obj
+<<
+/Type /Font
+/BaseFont /Times-BoldItalic
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+33 0 obj
+<<
+/Type /Font
+/BaseFont /ZapfDingbats
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+34 0 obj
+<<
+/Type /Font
+/BaseFont /Symbol
+/Subtype /Type1
+/FirstChar 32
+/LastChar 255
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 21 0 R
+/F2 22 0 R
+/F3 23 0 R
+/F4 24 0 R
+/F5 25 0 R
+/F6 26 0 R
+/F7 27 0 R
+/F8 28 0 R
+/F9 29 0 R
+/F10 30 0 R
+/F11 31 0 R
+/F12 32 0 R
+/F13 33 0 R
+/F14 34 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+35 0 obj
+<<
+/Producer (jsPDF 2.5.2)
+/CreationDate (D:20250709151624+01'00')
+>>
+endobj
+36 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 37
+0000000000 65535 f 
+0000025193 00000 n 
+0000027068 00000 n 
+0000000015 00000 n 
+0000000152 00000 n 
+0000003103 00000 n 
+0000003240 00000 n 
+0000006066 00000 n 
+0000006203 00000 n 
+0000008998 00000 n 
+0000009136 00000 n 
+0000012058 00000 n 
+0000012197 00000 n 
+0000015135 00000 n 
+0000015274 00000 n 
+0000018049 00000 n 
+0000018188 00000 n 
+0000021689 00000 n 
+0000021828 00000 n 
+0000023498 00000 n 
+0000023637 00000 n 
+0000025303 00000 n 
+0000025429 00000 n 
+0000025560 00000 n 
+0000025694 00000 n 
+0000025832 00000 n 
+0000025956 00000 n 
+0000026085 00000 n 
+0000026217 00000 n 
+0000026353 00000 n 
+0000026481 00000 n 
+0000026608 00000 n 
+0000026737 00000 n 
+0000026870 00000 n 
+0000026972 00000 n 
+0000027321 00000 n 
+0000027407 00000 n 
+trailer
+<<
+/Size 37
+/Root 36 0 R
+/Info 35 0 R
+/ID [ <84523D229CB071C9B0551B977606E5BA> <84523D229CB071C9B0551B977606E5BA> ]
+>>
+startxref
+27511
+%%EOF
